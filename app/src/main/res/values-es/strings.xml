@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PrimerProyectoAndroidPro</string>
+    <string name="add">Suma</string>
+    <string name="res">Resta</string>
+    <string name="mult">Mult</string>
+    <string name="div">Div</string>
+    <string name="_00">00</string>
+    <string name="num1">Numero 1</string>
+    <string name="num2">Numero 2</string>
+</resources>
